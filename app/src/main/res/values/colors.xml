@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="blue">#0000ff</color>
+    <color name="green">#00ff00</color>
+
+
+    <color name="dark_grey">#ff424242</color>
+
+    <color name="grayTransparent">#66757575</color>
+    <color name="blackTransparent">#66000000</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textSecondary2">#959595</color>
+    <color name="windowBackground">#eaf0f2</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+
+    <color name="unselected_color">#686767</color>
+
+    <color name="trending_toolbar">#242831</color>
+    <color name="disableIcon">#e6b2b2bf</color>
+    <color name="light_gray">#e5e5e5</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+    <color name="color_success">#5B9F0C</color>
+    <color name="color_error">#A92B2B</color>
+
+
+    <color name="color_present">#5CB85C</color>
+    <color name="color_absent">#FF0000</color>
+    <color name="color_leave">#f08b38</color>
+    <color name="color_leave2">#000000</color>
+
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="icActive">#FFFFFFFF</color>
+    <color name="icFocused">#DDFFFFFF</color>
+    <color name="icPressed">#AAFFFFFF</color>
+</resources>
